@@ -52,7 +52,7 @@ E com isso, imprimir em tela utilizando o comando ***console.log*** o nome da em
 
 ### Vetores e objetos (Desafio - 2)
 No desafio 2 - foi criado um algoritmo que armazene dados em um
-objeto nas seguintes variáveis
+objeto com as seguintes propriedades
 ***nome***, ***idade***, e ***tecnologia*** que trabalha.
 
 ```Obs```: Um programador pode trabalhar com várias técnologias, tendo a necessidade da construção de um array.
