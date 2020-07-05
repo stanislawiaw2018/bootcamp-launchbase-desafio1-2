@@ -1,6 +1,9 @@
 <h1 align="center">
-    DESAFIO 1-2: Lidando com objetos e vetores
+
+:computer: DESAFIO 1-2: Lidando com objetos e vetores
+
 </h1>
+
 
 <h1 align="center">
     <img alt="Launchbase" src="https://storage.googleapis.com/golden-wind/bootcamp-launchbase/logo.png" width="400px">
@@ -29,8 +32,38 @@
 
 ## 🚀 Sobre o desafio
 
+Desafio feito no Bootcamp LaunchBase, que consiste em fortalecer alguns conceitos repassados no curso, são eles:
+
+- Vetores;
+- Objetos.
+
+
+### Construção e impressão de objetos(Desafio - 1)
+No desafio 1 - foi criado um algoritmo que armazena os dados de uma empresa dentro de um objeto chamado ***empresa***, onde os dados a serem armazenados são:
+
+- Nome: Rocketseat;
+- Cor: Roxo;
+- Foco: Programação;
+- Endereço:
+    - Rua: Rua Guilherme Gembala;
+    - Número: 260
+
+E com isso, imprimir em tela utilizando o comando ***console.log*** o nome da empresa e seu endereço
+
 ## 🛠️ Tecnologias Utilizadas
 
-## ⏬ Como baixar o projeto
+- JavaScript
 
+## ⏬ Como baixar o projeto
+```bash
+
+$git clone https://github.com/stanislawiaw2018/bootcamp-launchbase-desafio1-2.git
+
+```
 ## 📝 Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+
+:rocket: Exercício resolvido com dedicação e esforço por [Antonio Stanislaw](#https://www.linkedin.com/in/antonio-stanislaw-dos-santos-47a077106/) :man_technologist:
