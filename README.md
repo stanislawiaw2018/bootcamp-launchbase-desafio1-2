@@ -50,9 +50,22 @@ No desafio 1 - foi criado um algoritmo que armazena os dados de uma empresa dent
 
 E com isso, imprimir em tela utilizando o comando ***console.log*** o nome da empresa e seu endereço
 
+### Vetores e objetos (Desafio - 2)
+No desafio 2 - foi criado um algoritmo que armazene dados em um
+objeto nas seguintes variáveis
+***nome***, ***idade***, e ***tecnologia*** que trabalha.
+
+```Obs```: Um programador pode trabalhar com várias técnologias, tendo a necessidade da construção de um array.
+
+Onde será impresso na tela o nome e especialidade da primeira tecnologia que o usuário utiliza.
+
+---
+
 ## 🛠️ Tecnologias Utilizadas
 
 - JavaScript
+
+---
 
 ## ⏬ Como baixar o projeto
 ```bash
@@ -60,6 +73,8 @@ E com isso, imprimir em tela utilizando o comando ***console.log*** o nome da em
 $git clone https://github.com/stanislawiaw2018/bootcamp-launchbase-desafio1-2.git
 
 ```
+---
+
 ## 📝 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
