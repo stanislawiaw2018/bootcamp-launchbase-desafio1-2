@@ -12,13 +12,13 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/antonio-stanislaw-dos-santos-47a077106/">
-        <img alt="Made by Anotnio Stanolsaw" src="https://img.shields.io/badge/made%20by-Antonio Stanislaw-%23ee9538">
+        <img alt="Made by Anotnio Stanislaw" src="https://img.shields.io/badge/made%20by-Antonio Stanislaw-%23ee9538">
     </a>  
     <a href="#">
         <img alt="LICENSE" src="https://img.shields.io/badge/license-MIT-%23ee9538">
     </a>  
 
-    
+
 
 </p>
 
@@ -68,6 +68,8 @@ Onde será impresso na tela o nome e especialidade da primeira tecnologia que o 
 ---
 
 ## ⏬ Como baixar o projeto
+Executar o Seguinte comando no seu **Terminal** ou no **CMD**:
+
 ```bash
 
 $git clone https://github.com/stanislawiaw2018/bootcamp-launchbase-desafio1-2.git
